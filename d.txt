@@ -1,0 +1,58 @@
+None of the mentioned
+None of the mentioned
+when object of class is declared, each object contains its own copy of static variables.
+static member
+None of the mentioned
+None of the mentioned
+StringBuffer(int size , String str)
+Byte Bytevalue()
+currenttimeMillis()
+It is dependent on the operating system.
+MembersPermission
+max(List c)
+The statements in a try{} block may throw several types of exception. 
+IllegalStateException
+ObjectInput
+ambigous()
+Collection
+getMouseCordinates()
+UNIT_INCREMENT
+All of the mentioned
+d
+SortedList
+java.text.mofify
+java.lang.reflect
+private method
+look()
+set()
+trimToSize()
+ensureCapacity()
+System
+Integer hashcode()
+regionMatches
+ChatAt()
+None of the mentioned
+finalize()
+All if the mentioned
+add()
+None of the mentioned
+Runtime
+Import pkg.*
+Capacity()
+All of the mentioned
+getChars()
+None of the mentioned
+java.packages
+Collection
+All of the mentioned
+None of the mentioned
+SimpleTimeZone
+None of the mentioned
+
+
+
+
+
+
+
+

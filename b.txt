@@ -1,0 +1,58 @@
+free
+delete()
+static methods must only access static data.
+private member
+Encapsulation
+void getclass()
+StringBuffer(int size)
+byte bytevalue()
+currentTime()
+Both of them will be executed simultaneously
+GetInformation
+max(Collection c, Comparator comp)
+The try{} block must appear before the catch{} blocks. 
+SystemException
+Externalization
+randomize()
+List
+getCoordinates()
+BLOCK_INCREMENT
+CTRL_MASK
+b
+Set
+java.awt
+java.awt
+finalize method
+get()
+fill()
+trimSize()
+increaseCapacity()
+Process
+int hashcode()
+match()
+chatat()
+method overriding
+delete()
+Map
+set()
+float
+Process
+Import pkg.
+capacity()
+int
+GetChars()
+abstract class
+java
+List
+Interface
+Method overriding
+Locale
+Rand
+
+
+
+
+
+
+
+

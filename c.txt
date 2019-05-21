@@ -1,0 +1,55 @@
+new
+main()
+static methods can not refer to this or super in any way.
+protected member
+Polymorphism
+Class getclass()
+StringBuffer(String str)
+Bytevalue()
+currentTimeMillis()
+None of them will be executed
+ReflectPermission
+max(Comparator comp)
+The try{} block cannot contain loops or branches. -------correct answer
+ObjectNotFoundExeception
+FileFilter
+shuffle()
+Array
+getMouseXY()
+UNIT_DECREMENT
+SHIFT_MASK
+c
+SortedMap
+java.lang.text
+java.io
+static method
+set()
+all()
+trimTosize()
+increasecapacity()
+Runtime
+int hashCode()
+RegionMatches()
+charAt()
+method hiding
+run()
+Hashtable
+redo()
+byte
+System
+import pkg.*
+Length()
+boolean
+Getchars()
+ArrayList class
+util
+Comparator
+Inner class
+Method hiding
+Date
+Random
+
+
+
+
+

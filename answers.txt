@@ -1,0 +1,57 @@
+None of the mentioned
+finalize()
+when object of class is declared, each object contains its own copy of static variables.
+private member
+Polymorphism
+Class getclass()
+StringBuffer(int size , String str)
+byte bytevalue()
+currentTimeMillis()
+It is dependent on the operating system.
+ReflectPermission
+max(Comparator comp)
+The statements in a try{} block may throw several types of exception
+IllegalStateException
+Externalization
+shuffle()
+Set
+getPoint()
+UNIT_INCREMENT
+All of the mentioned
+a
+SortedList
+java.text
+java.lang.reflect
+static method
+search()
+fill()
+trimToSize()
+ensureCapacity()
+System
+int hashCode()
+regionMatches
+charAt()
+method overloading
+main()
+Bitset
+redo()
+None of the mentioned
+Void
+import pkg.*
+Length()
+All of the mentioned
+getChars()
+abstract class
+java
+List
+Anonymous inner class
+Method overriding
+Locale
+Random
+
+
+
+
+
+
+

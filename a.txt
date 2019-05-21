@@ -1,0 +1,52 @@
+delete
+finalize()
+static methods can call other static methods only.
+public member
+Abstraction
+get()
+StringBuffer()
+bytevalue()
+currenttime()
+Any one will be executed first lexographically
+java.io
+max(Collection c)
+Some of the statements in a try{} block will never throw an exception. 
+IOException
+Serializable
+rand()
+Set
+getPoint()
+BLOCK_DECREMENT
+ALT_MASK
+a
+List
+java.text
+java.applet()
+main method()
+search()
+add()
+trim()
+Capacity()
+Void
+int hash()
+regionMatch()
+CHARAT()
+method overloading
+main()
+Bitset
+change()
+int
+Void
+import pkg.
+length()
+char
+getchars()
+Object class
+lang
+Set
+Anonymous inner class
+Method overloading
+TimeZone
+Locale
+
+

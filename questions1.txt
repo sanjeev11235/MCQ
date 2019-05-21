@@ -1,0 +1,56 @@
+Which operator is used by Java run time implementations to free the memory of an object when it is no longer needed?
+Which function is used to perform some action when the object is to be destroyed?
+Which of the following statements are incorrect?
+A class member declared protected becomes member of subclass of which type?
+Which of these is supported by method overriding in Java?
+Which of these method of Object class is used to obtain class of an object at run time?
+Which of the following are incorrect form of StringBuffer class constructor?
+Which of the following is method of wrapper Integer for converting the value of an object into byte?
+Which of the following is method of System class is used to find how long a program takes to execute?
+What will happen if two thread of same priority are called to be processed simultaneously?
+Which of these class allows us to get real time data about private and protected member of a class?
+Which of these is an incorrect form of using method max() to obtain maximum element?
+Which of the following statements about the try{} block in Java is false? 
+Which of these exceptions is thrown by remover() method?
+Which of these is an interface for control over serialization and deserialization?
+Which of these methods can randomize all elements in a list?
+Which of these interface must contain a unique element?
+Which of these methods can be used to obtain the coordinates of a mouse?
+Which of these constant value will change when the button at the end of scroll bar was clicked to increase its value?
+Which of these are integer constants defined in ActionEvent class?
+Which of these formatting strings of SimpleDateFormat class is used to print AM or PM in time?
+Which of these interface is not a part of Java’s collection framework?
+Which of these package is used for all the text related modifications?
+Which of these package is used for analyzing code during run-time?
+Which of these is the method which is executed first before execution of any other thing takes place in a program?
+Which of these method Map class is used to obtain an element in the map having specified key?
+Which of these method is used to make all elements of an equal to specified value?
+Which of these method is used to reduce the capacity of an ArrayList object?
+Which of these method can be used to increase the capacity of ArrayList object manually?
+Standard output variable ‘out’ is defined in which class?
+Which of the following methods is a method of wrapper Integer for obtaining hash code for the invoking object?
+Which of these methods is used to compare a specific region inside a string with another specific region in another string?
+Which of these method of class String is used to extract a single character from a String object?
+What is process of defining two or more methods within same class that have same name but different parameters declaration?
+Which of these methods must be made static?
+Which of these class object has architecture similar to that of array?
+Which of these method is used to change an element in a LinkedList Object?
+Which of these data type is returned by every method of OutputStream?
+Which of these class have only one field ‘TYPE’?
+Which of the following is correct way of importing an entire package ‘pkg’?
+Which of these method of class StringBuffer is used to get the length of sequence of characters?
+Which of these data type value is returned by equals() method of String class?
+Which of these method of class String is used to extract more than one character at a time a String object?
+Which of these class relies upon its subclasses for complete implementation of its method?
+Which of the following package stores all the standard java classes?
+Which of these interface handle sequencess?
+Which of the following reference types cannot be generic?
+What is the process of defining a method in subclass having same name & type signature as a method in its superclass?
+Which of these class produce objects with respect to geographical locations?
+Which of these class can generate pseudorandom numbers?
+
+
+
+
+
+
